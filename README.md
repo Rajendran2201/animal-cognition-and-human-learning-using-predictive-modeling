@@ -7,16 +7,16 @@ The paper explores the cognitive relationship between great apes and humans, aim
 
 ## Methodology
 
-Defining Research Objectives and Data Collection
-Collect behavioral, neurological, and genetic data from captive ape populations and human participants.
-Data Cleaning and Preprocessing
-Handle missing data, duplicate data, and outliers through various methods such as imputation and dropping.
-Data Standardization
-Split the data into training and test sets for model development.
-Machine Learning Model Selection and Model Training
-Utilize algorithms such as K-Means, Prophet, Random Forest, and Convolutional Neural Networks for clustering and forecasting.
-Artificial Intelligence for Analysis
-Apply AI techniques like natural language processing and computer vision for data analysis and insights extraction.
+### Defining Research Objectives and Data Collection
+- Collect behavioral, neurological, and genetic data from captive ape populations and human participants.
+### Data Cleaning and Preprocessing
+- Handle missing data, duplicate data, and outliers through various methods such as imputation and dropping.
+### Data Standardization
+- Split the data into training and test sets for model development.
+### Machine Learning Model Selection and Model Training
+- Utilize algorithms such as K-Means, Prophet, Random Forest, and Convolutional Neural Networks for clustering and forecasting.
+### Artificial Intelligence for Analysis
+- Apply AI techniques like natural language processing and computer vision for data analysis and insights extraction.
 
 ## Results
 
@@ -56,7 +56,9 @@ Email: asrajendrayadav@gmail.com
 ## How to Use
 
 Download the Paper: clone the repository to get the access of full paper
+
 Cite the Paper: If you find the research valuable, consider citing it in your own work using the provided citation information.
+
 Contact the Authors: Feel free to reach out to the authors via email if you have any questions or feedback about the paper.
 
 ## License
