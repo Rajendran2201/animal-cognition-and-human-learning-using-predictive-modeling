@@ -61,7 +61,7 @@ Contact the Authors: Feel free to reach out to the authors via email if you have
 
 ## License
 
-This paper is licensed under the Creative Commons Attribution 4.0 International License. See LICENSE for more details.
+This paper is licensed under the Creative Commons Attribution 4.0 International License. See [LICENSE](https://github.com/Rajendran2201/animal-cognition-and-human-learning-using-predictive-modeling/blob/main/LICENSE) for more details.
 
 ## Acknowledgments
 
