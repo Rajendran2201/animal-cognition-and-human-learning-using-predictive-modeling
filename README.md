@@ -41,17 +41,6 @@ The investigation yields multifaceted insights across diverse domains, including
 13. Derek D Reed and Brent A Kaplan, "The Matching Law: A Tutorial for Practitioners", Behav Anal Pract. 2011 Fall; 4(2): 15–24.
 14. Seungeun Chung, Chi Yoon Jeong, Jeong Mook Lim, Jiyoun Lim, Kyoung Ju Noh, Gague Kim, Hyuntae Jeong, "Real-world multimodal lifelog dataset for human behavior study"
 
-# Contributors
-
-Rajendran S
-
-First Year UG Student
-
-Department of Artificial Intelligence and Data Science
-
-Coimbatore Institute of Technology
-
-Email: asrajendrayadav@gmail.com
 
 ## How to Use
 
